@@ -1,0 +1,6 @@
+package com.example.coink.models
+
+enum class NombreCategorias {
+    COMIDA, COCHE, BEBIDA, NOMINA, TELEFONO, REGALO, DEPORTE, VIAJE, ROPA, CALZADO, BELLEZA, TRANSPORTE, AGUA, LUZ, GAS,
+    MEDICAMENTO, DEVOLUCION, CREAR
+}
