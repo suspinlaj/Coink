@@ -53,7 +53,7 @@ fun AppScreen(viewModel: AppViewModel, historialClick:() -> Unit, ajustesClick:(
 
         Image(
             painter = painterResource(id = R.drawable.fondo2),
-            contentDescription = "Background",
+            contentDescription = "Fondo",
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize()
         )
