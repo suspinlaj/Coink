@@ -1,6 +1,6 @@
 Coink: Aplicación para Ahorrar Dinero
 
-Coink es una aplicación pensada en ayudar a gestionar el dinero de forma divertida y visualmente atractiva. A través de una combinación de ilustración y programación, Coink te permite establecer un límite de gasto mensual y hacer un seguimiento visual de tus gastos con un cerdito ahorrador que se va poniendo triste conforme te acercas a tu presupuesto máximo.
+Coink es una aplicación pensada en ayudar a gestionar el dinero de forma divertida y visualmente atractiva. A través de la combinación de ilustración y programación, Coink te permite establecer un límite de gasto mensual y hacer un seguimiento visual de tus gastos con un cerdito ahorrador que se va poniendo triste conforme te acercas a tu presupuesto máximo.
 
 Acerca de este Proyecto
 
@@ -13,23 +13,21 @@ Visualiza todos tus gastos: Lleva un registro claro de tus transacciones pasadas
 
 2. Pantalla para Añadir Gastos
 
-Fácil y rápida: Añade tus gastos de forma sencilla, indicando el monto, la fecha y la categoría de cada transacción (como "comida", "entretenimiento", etc.).
+Fácil y rápida: Añade tus gastos de forma sencilla, indicando el monto, la fecha y la categoría de cada transacción (como "comida", "viajes", etc.).
 
-3. Ajustes Personalizables
+3. Ajustes
 
 Cambio de Idioma: Personaliza el idioma de la aplicación para mayor comodidad.
 
 Modo Claro y Oscuro: Cambia entre dos temas visuales para adaptarlo a tus preferencias de visualización.
 
-Modificar Gasto Máximo: Establece una cifra máxima de gasto mensual. A medida que ingresas tus gastos, el cerdito de la app se irá vaciando y se pondrá triste si te acercas o superas tu presupuesto.
+Modificar Gasto Máximo: Cambia tu cifra máxima de gasto mensual.
 
-4. Interfaz Visual de Ahorro
 
-El cerdito con monedas representa tu progreso. Cuanto más gastas, menos monedas quedan en su pancita y el cerdo se va poniendo más triste.
 
 Estado del Proyecto
 
-En proceso: Actualmente, la aplicación está en fase de desarrollo, con alguna funcionalidad ya implementada y otras en progreso.
+Actualmente, la aplicación está en fase de desarrollo, con alguna funcionalidad ya implementada y otras en progreso.
 
 
 Lenguajes:  Kotlin
