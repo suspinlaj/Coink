@@ -19,6 +19,8 @@ Este proyecto fue iniciado en verano, justo después de terminar el curso de DAM
 ## ⚙️ **Estado del proyecto**
 
 Actualmente, la aplicación está en fase de desarrollo, con algunas funcionalidades ya implementadas y otras en progreso.
+
+#ACTUALIZACIÓN: debido al empiece del nuevo curso, la aplicación está en pausa.
 <br><br><br>
 <p align="center">
   <img src="app/src/main/res/drawable/img_ajustes.png" width="300" />
